@@ -104,5 +104,5 @@ streamlit run chat.py
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por [Seu Nome]. Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato!
+Desenvolvido por Lucas Benevinuto. Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato!
 
